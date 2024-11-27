@@ -38,7 +38,7 @@ const RoomPage = () => {
                                     <h2 className="card-title bg-green-200 rounded-xl p-3 text-center">Room Number : {room.roomNumber}</h2>
                                     <p> <span className="font-bold">Type :</span> {room.type}</p>
                                     <p> <span className="font-bold">Capacity : </span>{room.capacity}</p>
-                                    <p><span className="font-bold"> Price Per Night : </span>{room.pricePerNight}</p>
+                                    <p><span className="font-bold"> Price Per Night : </span>{room.pricePerNight} $</p>
                                     <p><span className="font-bold"> Amenities: </span></p> <ul className="grid grid-cols-2 grid-rows-2  gap-2 ">
                                         {room.amenities.map((amenity, index) => (
                                             <li className="bg-green-100 rounded-full p-2 text-center border border-black text-sm font-bold" key={index}>{amenity}</li>
