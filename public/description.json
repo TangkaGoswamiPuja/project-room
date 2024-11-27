@@ -1,0 +1,389 @@
+[
+        {
+            "roomNumber": 101,
+            "type": "Suite",
+            "capacity": 4,
+            "pricePerNight": 250.5,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Kitchenette",
+                "Living Area",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room101.jpg"
+        },
+        {
+            "roomNumber": 102,
+            "type": "Standard Room",
+            "capacity": 2,
+            "pricePerNight": 99.99,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Desk",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room102.jpg"
+        },
+        {
+            "roomNumber": 103,
+            "type": "Family Room",
+            "capacity": 4,
+            "pricePerNight": 180.0,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Multiple Beds",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room103.jpg"
+        },
+        {
+            "roomNumber": 104,
+            "type": "Executive Room",
+            "capacity": 2,
+            "pricePerNight": 200.0,
+            "availability": false,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Work Desk",
+                "Coffee Machine",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room104.jpg"
+        },
+        {
+            "roomNumber": 105,
+            "type": "Deluxe Room",
+            "capacity": 2,
+            "pricePerNight": 120.99,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Mini Bar",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room105.jpg"
+        },
+        {
+            "roomNumber": 201,
+            "type": "Suite",
+            "capacity": 4,
+            "pricePerNight": 250.5,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Kitchenette",
+                "Living Area",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room106.jpg"
+        },
+        {
+            "roomNumber": 202,
+            "type": "Standard Room",
+            "capacity": 2,
+            "pricePerNight": 99.99,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Desk",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room107.jpg"
+        },
+        {
+            "roomNumber": 203,
+            "type": "Family Room",
+            "capacity": 4,
+            "pricePerNight": 180.0,
+            "availability": false,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Multiple Beds",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room108.jpg"
+        },
+        {
+            "roomNumber": 204,
+            "type": "Executive Room",
+            "capacity": 2,
+            "pricePerNight": 200.0,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Work Desk",
+                "Coffee Machine",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room109.jpg"
+        },
+        {
+            "roomNumber": 205,
+            "type": "Deluxe Room",
+            "capacity": 2,
+            "pricePerNight": 120.99,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Mini Bar",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room110.jpg"
+        },
+        {
+            "roomNumber": 301,
+            "type": "Suite",
+            "capacity": 4,
+            "pricePerNight": 250.5,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Kitchenette",
+                "Living Area",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room111.jpg"
+        },
+        {
+            "roomNumber": 302,
+            "type": "Standard Room",
+            "capacity": 2,
+            "pricePerNight": 99.99,
+            "availability": false,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Desk",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room112.jpg"
+        },
+        {
+            "roomNumber": 303,
+            "type": "Family Room",
+            "capacity": 4,
+            "pricePerNight": 180.0,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Multiple Beds",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room113.jpg"
+        },
+        {
+            "roomNumber": 304,
+            "type": "Executive Room",
+            "capacity": 2,
+            "pricePerNight": 200.0,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Work Desk",
+                "Coffee Machine",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room114.jpg"
+        },
+        {
+            "roomNumber": 305,
+            "type": "Deluxe Room",
+            "capacity": 2,
+            "pricePerNight": 120.99,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Mini Bar",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room115.jpg"
+        },
+        {
+            "roomNumber": 401,
+            "type": "Suite",
+            "capacity": 4,
+            "pricePerNight": 250.5,
+            "availability": false,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Kitchenette",
+                "Living Area",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room116.jpg"
+        },
+        {
+            "roomNumber": 402,
+            "type": "Standard Room",
+            "capacity": 2,
+            "pricePerNight": 99.99,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Desk",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room117.jpg"
+        },
+        {
+            "roomNumber": 403,
+            "type": "Family Room",
+            "capacity": 4,
+            "pricePerNight": 180.0,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Multiple Beds",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room118.jpg"
+        },
+        {
+            "roomNumber": 404,
+            "type": "Executive Room",
+            "capacity": 2,
+            "pricePerNight": 200.0,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Work Desk",
+                "Coffee Machine",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room119.jpg"
+        },
+        {
+            "roomNumber": 405,
+            "type": "Deluxe Room",
+            "capacity": 2,
+            "pricePerNight": 120.99,
+            "availability": false,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Mini Bar",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room120.jpg"
+        },
+        {
+            "roomNumber": 501,
+            "type": "Suite",
+            "capacity": 4,
+            "pricePerNight": 250.5,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Kitchenette",
+                "Living Area",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room121.jpg"
+        },
+        {
+            "roomNumber": 502,
+            "type": "Standard Room",
+            "capacity": 2,
+            "pricePerNight": 99.99,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Desk",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room122.jpg"
+        },
+        {
+            "roomNumber": 503,
+            "type": "Family Room",
+            "capacity": 4,
+            "pricePerNight": 180.0,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Multiple Beds",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room123.jpg"
+        },
+        {
+            "roomNumber": 504,
+            "type": "Executive Room",
+            "capacity": 2,
+            "pricePerNight": 200.0,
+            "availability": false,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Work Desk",
+                "Coffee Machine",
+                "Private Balcony"
+            ],
+            "image": "https://example.com/images/room124.jpg"
+        },
+        {
+            "roomNumber": 505,
+            "type": "Deluxe Room",
+            "capacity": 2,
+            "pricePerNight": 120.99,
+            "availability": true,
+            "amenities": [
+                "Free Wi-Fi",
+                "Air Conditioning",
+                "Flat Screen TV",
+                "Mini Bar",
+                "Ensuite Bathroom"
+            ],
+            "image": "https://example.com/images/room125.jpg"
+        }
+    ]
+        
+       
