@@ -1,5 +1,6 @@
 "use client";
 import Image from "next/image";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 
 const RoomPage = () => {
@@ -17,6 +18,8 @@ const RoomPage = () => {
 
     return (
         <>
+        <Link href="/">
+        <button className="btn">home</button></Link>
             <div>
                 <div className="border-2 border-black p-5 m-10 ">
                     <h1 className="bg-green-900 text-2xl p-2 font-bold text-white pl-5 mb-4 rounded-lg  ">All Rooms</h1>
